@@ -2,8 +2,7 @@
 
 This repository provides all data and source code required to reproduce the computational results presented in the paper:
 
-**“Multi-Mode Resource-Constrained Project Scheduling Problem with Time-Dependent Resource Costs and Capacities: A Bi-Objective Approach”**,  
-submitted to *Expert Systems with Applications*.
+**“Multi-Mode Resource-Constrained Project Scheduling Problem with Time-Dependent Resource Costs and Capacities: A Bi-Objective Approach”**, submitted to *Expert Systems with Applications*.
 
 ---
 
