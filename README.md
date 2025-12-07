@@ -2,7 +2,7 @@
 
 This repository provides all data and source code required to reproduce the computational results presented in the paper:
 
-**“Bi-objective Multi-Mode Resource-Constrained Project Scheduling Problem with Time-Dependent Resource Costs and Capacities (MRCPSP_TDRCC)”**,  
+**“Multi-Mode Resource-Constrained Project Scheduling Problem with Time-Dependent Resource Costs and Capacities: A Bi-Objective Approach”**,  
 submitted to *Expert Systems with Applications*.
 
 ---
@@ -11,7 +11,7 @@ submitted to *Expert Systems with Applications*.
 
 ### 1. Source code
 
-- **`jMetalExperiments-master.zip`**
+- **`jMetalExperiments-master.zip`** (available through the Releases section of this repository)
 
   This archive contains the complete implementation developed for this study, including:
   - The proposed solution encoding,
